@@ -1,2 +1,2 @@
-# Python_projects
-some python projects app I've worked on
+# To-do List
+The first actual python project i've worked on
